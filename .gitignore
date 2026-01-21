@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Conda / environments
+.env
+*.lock
+
+# Data (if large or provided)
+representations/data/
+
+# OS
+.DS_Store

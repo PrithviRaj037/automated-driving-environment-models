@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: ad-env-utils
+Version: 0.2.0
+Summary: Environment modelling utilities for automated driving labs (Lanelet2, calibration, data prep).
+Author: Automated Driving Lab
+Classifier: Programming Language :: Python :: 3
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: BSD License
+Requires-Python: >=3.9
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
